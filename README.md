@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Apurva Gawas</h1>
-<h3 align="center">🚀 Power BI Developer | SQL & Low-Code Platforms | Turning raw data into insights | Aspiring Data Analyst 📊</h3>
+<h3 align="center">🚀 Power BI Developer | SQL & Low-Code Platforms | Turning raw data into insights | Aspiring Data Analyst </h3>
 
 ---
 
@@ -46,9 +46,9 @@
 📉 **[Sales Data EDA in Python](https://github.com/your-username/sales-data-eda-python)**  
 > Exploratory analysis using Pandas & Seaborn. Storytelling + clean code.  
 🧠 Outcome: Found 3 hidden seasonality patterns affecting revenue.
-
--->
 ---
+-->
+
 
 ### 📌 Highlights
 
@@ -64,10 +64,9 @@
 ### 🤝 Let’s Connect
 
 - 📫 Email: apurvaugawas@gmail.com  
-<!-- - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)   -->
 - 💼 LinkedIn: [linkedin.com/in/Apurva-Gawas](https://www.linkedin.com/in/apurva-gawas/)  
 - 💬 DM-friendly GitHub: [github.com/Apurva-Gawas](https://github.com/Apurva-Gawas)
-
+<!-- - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)   -->
 ---
 
 <p align="center">
